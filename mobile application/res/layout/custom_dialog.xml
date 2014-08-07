@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip">
+
+        <ImageView
+            android:id="@+id/slikaDialog"
+            android:layout_width="fill_parent"
+            android:layout_height="238dp"
+            android:layout_weight="0.04"
+             />
+    </LinearLayout>
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="184dp"
+        android:gravity="right"
+        android:orientation="vertical"
+        android:paddingLeft="15dp"
+        android:textAlignment="textEnd" >
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Naziv: "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+          />
+
+        <TextView
+            android:id="@+id/txtPoeni"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Barkod: "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+         />
+
+        <TextView
+            android:id="@+id/txtPosjeta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cijena: "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+           />
+
+        <TextView
+            android:id="@+id/txtPrezime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Loyalty poeni: "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            />
+        <TextView
+            android:id="@+id/txtOpis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Opis: "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+          />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="178dp"
+        android:layout_height="184dp"
+        android:orientation="vertical" >
+<TextView
+            android:id="@+id/twNaziv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="naz"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#B0171F"
+            android:textStyle="bold|italic" />
+        <TextView
+            android:id="@+id/twBarkod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="bar"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#B0171F"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/twCijena"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ci"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#B0171F"
+            android:textStyle="bold|italic" />
+
+      
+
+        <TextView
+            android:id="@+id/twLoyalty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="lo"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#B0171F"
+            android:textStyle="bold|italic" />
+        <TextView
+            android:id="@+id/twOpis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="op"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#B0171F"
+            android:textStyle="bold|italic" />
+
+    </LinearLayout>
+    </LinearLayout>
+    
+
+</LinearLayout>

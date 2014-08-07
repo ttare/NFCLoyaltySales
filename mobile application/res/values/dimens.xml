@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="c">80px</dimen>
+    <dimen name="d">150px</dimen>
+    <dimen name="e">50px</dimen>
+    <dimen name="g">200px</dimen>
+    <dimen name="h">200px</dimen>
+</resources>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="93dp"
+        android:layout_height="184dp"
+        android:layout_weight="0.16"
+        android:orientation="vertical"
+        android:paddingLeft="15dp"
+        android:textAlignment="textEnd" >
+
+        <TextView
+            android:id="@+id/txtPodaci"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ID"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="barkod"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtPoeni"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="naziv"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtPosjeta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="cijena"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtPrezime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="kolicina"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnUredi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="UREDI"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="178dp"
+        android:layout_height="184dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/twId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ID"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#B0171F"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/twBarkod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="barkod"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#B0171F"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/twNaziv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="kolicina"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#B0171F"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/twCijena"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="cijena"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#B0171F"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/twKolicina"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="kolicina"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#B0171F"
+            android:textStyle="bold|italic" />
+
+        <Button
+            android:id="@+id/btnIzbrisi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="IZBRISI"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/slikaDialog"
+            android:layout_width="fill_parent"
+            android:layout_height="238dp"
+            android:layout_weight="0.04" />
+    </LinearLayout>
+
+</LinearLayout>

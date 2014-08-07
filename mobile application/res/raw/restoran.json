@@ -1,0 +1,412 @@
+{
+"artikli":[
+	{
+		"naziv":"Fanta",
+		"cijena":"3",
+		"barkod":"72568",
+		"loyaltypoints":"30000",
+		"opis":"50% popust",
+		"url":"http://olympiapizzaexpress.com/wp-content/themes/shopperpress/thumbs/Fanta-15-l.jpg"
+	},
+	{
+		"naziv":"Coca Cola",
+		"cijena":"3",
+		"barkod":"78956",
+		"loyaltypoints":"3",
+		"opis":"50% popust",
+		"url":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFGs3HzTT_6iv8_gfdc6oF1SmdDdvWjoaoJ1IMW5CPCGdtigddkA"
+	},
+	{
+		"naziv":"Sprite",
+		"cijena":"3",
+		"barkod":"74258",
+		"loyaltypoints":"3",
+		"opis":"50% popust",
+		"url":"http://dizzyfrinks.com/wp-content/uploads/2010/11/65sprite.jpg"
+	},
+	{
+		"naziv":"Kiseljak",
+		"cijena":"1",
+		"barkod":"74125",
+		"loyaltypoints":"1",
+		"opis":"Gratis",
+		"url":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTp6SdcvVt589QxMSAmZsKtGr4qAtKN13V--n0pTMKN9ppRlnZU"
+	},
+	{
+		"naziv":"Kiseljak Sensation",
+		"cijena":"1.5",
+		"barkod":"75569",
+		"loyaltypoints":"2",
+		"opis":"Gratis",
+		"url":"http://online.konzum.hr/images/products/031/03180154l.gif"
+	},
+	{
+		"naziv":"Cedevita",
+		"cijena":"2",
+		"barkod":"78863",
+		"loyaltypoints":"2",
+		"opis":"50% popust",
+		"url":"http://www.muskiportal.com/wp-content/uploads/2011/06/Cede200g_Naranca_1_CMYK.jpg"
+	},
+	{
+		"naziv":"Schweppes",
+		"cijena":"3.5",
+		"barkod":"77542",
+		"loyaltypoints":"3",
+		"opis":"Gratis",
+		"url":"http://cocacolabrasil.com.br/wp-content/uploads/sites/6/2013/03/scheweppes_lata-350ml-citrus-light1.jpg"
+	},
+	{
+		"naziv":"Cappy",
+		"cijena":"2.5",
+		"barkod":"76632",
+		"loyaltypoints":"2",
+		"opis":"50% popust",
+		"url":"http://www.maxikarizma.com/image/cache/data/urunler/05-icecekler/01-meyva-suyu/cappy/cappy-portakal-kutu-330-ml/cappy-portakal-kutu-330-ml-1000x1000.jpg"
+	},
+	{
+		"naziv":"Orangina",
+		"cijena":"1.5",
+		"barkod":"78852",
+		"loyaltypoints":"2",
+		"opis":"Gratis",
+		"url":"http://goodtoknow.media.ipcdigital.co.uk/111/00000b4f9/0a89_orh100000w614/4-Orangina.jpg"
+	},
+	{
+		"naziv":"Limunada",
+		"cijena":"1",
+		"barkod":"75422",
+		"loyaltypoints":"1",
+		"opis":"Gratis",
+		"url":"http://trx.rs/wp-content/uploads/2012/12/limunada-pice-osvezenje-1343076036-189085.jpg"
+	},
+	{  
+         "naziv":"Pita od jabuka",
+         "cijena":"5.0",
+         "barkod":"41234",
+         "loyaltypoints":"5",
+         "opis":"Gratis",
+         "url":"http://www.vesti-online.com/data/images/2013-04-13/315421_pita-s-jabukama--foto-health-com_f.jpg?ver=1365858185"
+      },
+      {  
+         "naziv":"Palačinci",
+         "cijena":"3.5",
+         "barkod":"42345",
+         "loyaltypoints":"2",
+         "opis":"35% popust ",
+         "url":"http://www.mojahrana.com/images/recepti/Cokoladni-palacinci-sa-sladoledom-i-slagom.jpg"
+      },
+      {  
+         "naziv":"Tufahija",
+         "cijena":"4",
+         "barkod":"45678",
+         "loyaltypoints":"2",
+         "opis":"50% popust",
+         "url":"http://isprobanirecepti.weebly.com/uploads/1/5/7/4/1574142/489396.jpg?421"
+      },
+      {  
+         "naziv":"Panna cotta",
+         "cijena":"5",
+         "barkod":"43456",
+         "loyaltypoints":"5",
+         "opis":"10% popust",
+         "url":"http://www.adimaria.co.uk/wp-content/themes/shopperpress/thumbs/Panna-Cotta.png"
+      },
+      {  
+         "naziv":"Banana split",
+         "cijena":"5",
+         "barkod":"45567",
+         "loyaltypoints":"7",
+         "opis":"Gratis",
+         "url":"http://i2.mirror.co.uk/incoming/article177490.ece/alternates/s615/image-6-for-a-tribute-for-the-anniversary-of-ice-cream-sundae-s-gallery-668896257.jpg"
+      },
+      {  
+         "naziv":"Sladoled",
+         "cijena":"3",
+         "barkod":"44567",
+         "loyaltypoints":"5",
+         "opis":"Gratis",
+         "url":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1_za4WUU3Niud9b4VZmFffNB1zAyrQagUkSDcLSahnM9htNPIXQ"
+      },
+      {  
+         "naziv":"Baklava",
+         "cijena":"4.5",
+         "barkod":"45667",
+         "loyaltypoints":"3",
+         "opis":"50% popust",
+         "url":"http://4.bp.blogspot.com/-Qs-2pUZBz8E/UGNQECJgXJI/AAAAAAAAA1c/4gWYS4XG-9k/s400/baklavas.jpg"
+      },
+      {  
+         "naziv":"Tulumbe",
+         "cijena":"3",
+         "barkod":"44454",
+         "loyaltypoints":"3",
+         "opis":"Gratis",
+         "url":"http://www.objektivno.ba/wp-content/uploads/2014/02/IMG_5691-1-800x600.jpg"
+      },
+      {  
+         "naziv":"Sampita",
+         "cijena":"5",
+         "barkod":"42222",
+         "loyaltypoints":"2",
+         "opis":"Gratis",
+         "url":"http://tortekolaci.com/wp-content/uploads/2012/11/sampita-sa-krem-banicama1.jpg"
+      },
+      {  
+         "naziv":"Kadaif",
+         "cijena":"3",
+         "barkod":"44221",
+         "loyaltypoints":"2",
+         "opis":"Gratis",
+         "url":"http://2.bp.blogspot.com/-2Vt2sCADEMo/UuqnxMQ3TSI/AAAAAAAAB-0/jek_5UpF3gQ/s1600/Kadaif+-bosanska+kuhinja+1.jpg"
+      },
+      {  
+         "naziv":"Hurmasica",
+         "cijena":"3",
+         "barkod":"43321",
+         "loyaltypoints":"2",
+         "opis":"50% popust",
+         "url":"http://3.bp.blogspot.com/_83Eh125tEnE/Sgs5RBd90fI/AAAAAAAABTM/pA9G4v7u-NM/s320/hurmasice4.jpg"
+      },
+	    {  
+         "naziv":"Carpaccio",
+         "cijena":"16.0",
+         "barkod":"51234",
+         "loyaltypoints":"4",
+         "opis":"30% popust",
+         "url":"http://i1118.photobucket.com/albums/k611/mrwillw/BLOG%205/c0d9fd2b.jpg"
+      },
+      {  
+         "naziv":"Dimljeni biftek",
+         "cijena":"12.0",
+         "barkod":"56587",
+         "loyaltypoints":"4",
+         "opis":"20% popust",
+         "url":"http://2.bp.blogspot.com/-_YNxvKZXF4Y/Twdzchs2ZOI/AAAAAAAATcQ/r3k8lDaCTkE/s1600/tenderloin.jpg"
+      },
+      {  
+         "naziv":"Dimljeni losos",
+         "cijena":"20.0",
+         "barkod":"54970",
+         "loyaltypoints":"6",
+         "opis":"50% popust",
+         "url":"http://welldonerecipes.com/wp-content/uploads/2011/06/Smoked-Salmon.jpg"
+      },
+      {  
+         "naziv":"Crni rižoto sa lignjama",
+         "cijena":"18.0",
+         "barkod":"56109",
+         "loyaltypoints":"3",
+         "opis":"30%",
+         "url":"http://markshunji.files.wordpress.com/2012/03/040.jpg"
+      },
+      {  
+         "naziv":"Mediteransko povrće na žaru",
+         "cijena":"18.0",
+         "barkod":"56981",
+         "loyaltypoints":"5",
+         "opis":"50% popust",
+         "url":"http://img.sndimg.com/food/image/upload/w_614,h_461/v1/img/recipes/13/06/61/pic1uHAzC.jpg"
+      },
+      {  
+         "naziv":"Salata alla chef",
+         "cijena":"18.0",
+         "barkod":"59732",
+         "loyaltypoints":"10",
+         "opis":"Gratis!",
+         "url":"http://arkansasfoodies.files.wordpress.com/2011/02/img_4535.jpg"
+      },
+      {  
+         "naziv":"Uštipci sa sirom i kajmakom",
+         "cijena":"12.0",
+         "barkod":"56792",
+         "loyaltypoints":"5",
+         "opis":"70% popust",
+         "url":"http://onruetatin.com/wp/wp-content/uploads/2013/08/IMG_9017-e1375916952766.jpg"
+      },
+      {  
+         "naziv":"Begova čorba",
+         "cijena":"5.0",
+         "barkod":"51098",
+         "loyaltypoints":"3",
+         "opis":"Gratis!",
+         "url":"http://www.magicus.info/gn/slike/gn_slike_3/r2/g2010/m10/x10065248654548011765.jpg"
+      },
+      {  
+         "naziv":"Paradajz krem supa",
+         "cijena":"4.0",
+         "barkod":"52100",
+         "loyaltypoints":"2",
+         "opis":"Gratis!",
+         "url":"http://www.knuj.net/files/2014/01/Basil_Tomato_Soup-2.jpg"
+      },
+      {  
+         "naziv":"Zeljanica",
+         "cijena":"8.0",
+         "barkod":"58630",
+         "loyaltypoints":"2",
+         "opis":"50% popust",
+         "url":"http://www.foodpeoplewant.com/wp-content/uploads/2009/08/Spinach-Pie-for-Web.jpg"
+      },
+	        {  
+         "naziv":"Teleći ražnjići",
+         "cijena":"17",
+         "barkod":"21111",
+         "loyaltypoints":"10",
+         "opis":"20% popust",
+         "url":"http://www.erecepti.com/images/upload/2011/11/resized/826991105_b7f9cd9bf8.jpg"
+      },
+      {  
+         "naziv":"Piletina u gorgonzoli",
+         "cijena":"12",
+         "barkod":"21112",
+         "loyaltypoints":"8",
+         "opis":"20% popust",
+         "url":"http://www.uredisvojdom.com/pictures/articles/1a25d461188b876247f1050d3b606a4a.jpg"
+      },
+      {  
+         "naziv":"Pileći bataci",
+         "cijena":"12",
+         "barkod":"21113",
+         "loyaltypoints":"7",
+         "opis":"15% popust",
+         "url":"http://zena.blic.rs/data/images/2012-02-09/23349_stock-photo-chicken-legs-with-fresh-vegetables-shutterstock_53655241_iff.jpg?ver=1328805667"
+      },
+      {  
+         "naziv":"Biftek",
+         "cijena":"22",
+         "barkod":"21114",
+         "loyaltypoints":"12",
+         "opis":"23% popust",
+         "url":"http://prisada.cz/wp-content/uploads/2010/08/biftek1.jpg"
+      },
+      {  
+         "naziv":"Ćevapi",
+         "cijena":"7",
+         "barkod":"21115",
+         "loyaltypoints":"6",
+         "opis":"16% popust",
+         "url":"http://butterflynina.blogspot.si/files/2009/10/cevap3.jpg"
+      },
+      {  
+         "naziv":"Hadžijski ćevap",
+         "cijena":"12",
+         "barkod":"21116",
+         "loyaltypoints":"8",
+         "opis":"40% popust",
+         "url":"http://cdn.coolinarika.net/image/b5d32aed5ec1900d0eb4b9ff0347df46_header.jpg?v=0"
+      },
+      {  
+         "naziv":"Bečka šnicla",
+         "cijena":"15",
+         "barkod":"21117",
+         "loyaltypoints":"9",
+         "opis":"23% popust",
+         "url":"http://www.stvarukusa.rs/sites/default/files/styles/w685/public/recipe/photo_galleries/becka_snicla_recept.jpg"
+      },
+      {  
+         "naziv":"Karađorđeva šnicla",
+         "cijena":"16",
+         "barkod":"21118",
+         "loyaltypoints":"8",
+         "opis":"30% popust",
+         "url":"http://www.donesi.com/images/product/5/13305.jpg"
+      },
+      {  
+         "naziv":"Teletina ispod sača",
+         "cijena":"20",
+         "barkod":"21119",
+         "loyaltypoints":"10",
+         "opis":"18% popusta",
+         "url":"http://www.grupko.rs/uploaded_pictures/content/ponude/640x480/295-din-umesto-750-din-za-porciju-teletine-ispod-saca-uz-pekarski-krompir-kao-prilog-u-renomiranom-restoranu-poseydon-hall-u-840-3.jpg"
+      },
+      {  
+         "naziv":"Grah",
+         "cijena":"5",
+         "barkod":"21120",
+         "loyaltypoints":"4",
+         "opis":"Gratis",
+         "url":"http://www.narodnilijek.com/web/wp-content/uploads/grah1-300x211.jpg"
+      },
+		{  
+         "naziv":"Kafa",
+         "cijena":"1",
+         "barkod":"81234",
+         "loyaltypoints":"6",
+         "opis":"Gratis",
+         "url":"http://i.picresize.com/images/2014/07/16/cRMT.png"
+      },
+      {  
+         "naziv":"Kafa sa slagom",
+         "cijena":"1.5",
+         "barkod":"82314",
+         "loyaltypoints":"12",
+         "opis":"Gratis",
+         "url":"http://www.erecepti.com/images/upload/2012/08/resized/kafa_sa_sladoledom.jpg"
+      },
+      {  
+         "naziv":"Cappuccino",
+         "cijena":"2",
+         "barkod":"82143",
+         "loyaltypoints":"12",
+         "opis":"Gratis",
+         "url":"http://upload.wikimedia.org/wikipedia/commons/3/3a/Cappuccino.jpg"
+      },
+	{  
+         "naziv":"Bosanska kafa",
+         "cijena":"3",
+         "barkod":"88765",
+         "loyaltypoints":"8",
+         "opis":"Gratis",
+         "url":"http://www.recepti.com/img/recipe/9343-kafa-za-dvoje_zoom.jpg"
+      },
+      {  
+         "naziv":"Topla cokolada",
+         "cijena":"2.5",
+         "barkod":"81642",
+         "loyaltypoints":"30",
+         "opis":"Gratis",
+         "url":"http://withfriendship.com/images/g/32328/Caffe-macchiato-wallpaper.jpg"
+      },
+      {  
+         "naziv":"Nescafe vanilija",
+         "cijena":"4.5",
+         "barkod":"84321",
+         "loyaltypoints":"10",
+         "opis":"Gratis",
+         "url":"http://globalassets.starbucks.com/assets/cc42a7ecffd04b67b84e737b92611f92.jpg"
+      },
+      {  
+         "naziv":"Nescafe klasik",
+         "cijena":"2.5",
+         "barkod":"81342",
+         "loyaltypoints":"40",
+         "opis":"Gratis",
+         "url":"http://www.allkart.in/content/images/thumbs/0002127_nescafe-classic_300.jpeg"
+      },
+      {  
+        
+         "naziv":"Nescafe cokolada",
+         "cijena":"1.5",
+         "barkod":"81542",
+         "loyaltypoints":"30",
+         "opis":"Gratis",
+         "url":"http://kolektiv.me/images/8107aa823db900277a4c4f35384236c2.jpg"
+      },
+      { 
+         "naziv":"Frappuccino",
+         "cijena":"4",
+         "barkod":"81582",
+         "loyaltypoints":"10000",
+         "opis":"Gratis",
+         "url":"http://chocolatecoveredkatie.com/wp-content/uploads/2011/07/homemade-Frappuccino_thumb.jpg?73e30c"
+      },
+      {  "naziv":"Caj",
+         "cijena":"1.5",
+         "barkod":"86754",
+         "loyaltypoints":"12",
+         "opis":"Gratis",
+         "url":"http://westofpersia.files.wordpress.com/2010/07/hot-black-tea.jpg"
+      }
+]
+}
